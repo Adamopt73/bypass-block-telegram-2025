@@ -1,4 +1,3 @@
-<img width="825" height="371" alt="image" src="https://github.com/user-attachments/assets/76c32a53-9d63-4e7d-affa-97a258e27574" /># bypass-block-telegram-2025
 RU
 С 21 октября в южной части РФ начали смачно блокировать телеграм,сегодня я расскажу вам способ обхода без использования впн,прокси и т.п.
 1. Заходим в параметры
