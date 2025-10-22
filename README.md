@@ -2,21 +2,26 @@ RU
 
 С 21 октября в южной части РФ начали смачно блокировать телеграм,сегодня я расскажу вам способ обхода без использования впн,прокси и т.п. ТОЛЬКО ДЛЯ WINDOWS
 1. Заходим в параметры
-3. В поиске пишем dns и жмякаем на единственную кнопочку <img width="988" height="222" alt="image" src="https://github.com/user-attachments/assets/b9c793aa-2d8c-4d84-bdc0-67b29049ea81" /> (в моем случае ethernet)
-4. Ставим общедоступную сеть (если она у вас уже стоит,то пропускайте этот пункт) <img width="1016" height="258" alt="image" src="https://github.com/user-attachments/assets/a7942a48-0ffb-46f4-9d20-1384326796d3" />
+3. В поиске пишем dns и жмякаем на единственную кнопочку 
+<img width="988" height="222" alt="image" src="https://github.com/user-attachments/assets/b9c793aa-2d8c-4d84-bdc0-67b29049ea81" /> (в моем случае ethernet)
+4. Ставим общедоступную сеть (если она у вас уже стоит,то пропускайте этот пункт)
+<img width="1016" height="258" alt="image" src="https://github.com/user-attachments/assets/a7942a48-0ffb-46f4-9d20-1384326796d3" />
 
 
-5. Находим "Назначение DNS-сервера" и жмякаем на кнопку "Изменить" <img width="1001" height="37" alt="image" src="https://github.com/user-attachments/assets/b7a31639-39de-447c-9081-a73fb3375935" />
+5. Находим "Назначение DNS-сервера" и жмякаем на кнопку "Изменить"
+<img width="1001" height="37" alt="image" src="https://github.com/user-attachments/assets/b7a31639-39de-447c-9081-a73fb3375935" />
 
 
 
 6. Ставим ручной режим и включаем ipv4.
 
-7. Ставите все тоже самое что на скрине <img width="481" height="626" alt="image" src="https://github.com/user-attachments/assets/e28336f5-eadd-4033-aecf-a2de47976abe" />
+7. Ставите все тоже самое что на скрине 
+<img width="481" height="626" alt="image" src="https://github.com/user-attachments/assets/e28336f5-eadd-4033-aecf-a2de47976abe" />
   
   (8.8.8.8 и 8.8.4.4 включая автоматическое определение))
 
-8. После включаем ipv6 и ставим все тоже самое что на скриншоте <img width="469" height="563" alt="image" src="https://github.com/user-attachments/assets/024ce24f-a805-4e73-9c7e-27228df52912" />
+8. После включаем ipv6 и ставим все тоже самое что на скриншоте 
+<img width="469" height="563" alt="image" src="https://github.com/user-attachments/assets/024ce24f-a805-4e73-9c7e-27228df52912" />
  
   (2001:4860:4860::8888 включая автоматическое определение)
 
