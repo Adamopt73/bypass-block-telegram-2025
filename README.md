@@ -3,9 +3,11 @@ RU
 С 21 октября в южной части РФ начали смачно блокировать телеграм,сегодня я расскажу вам способ обхода без использования впн,прокси и т.п. ТОЛЬКО ДЛЯ WINDOWS
 1. Заходим в параметры
 3. В поиске пишем dns и жмякаем на единственную кнопочку <img width="988" height="222" alt="image" src="https://github.com/user-attachments/assets/b9c793aa-2d8c-4d84-bdc0-67b29049ea81" /> (в моем случае ethernet)
-4. Ставим общедоступную сеть (если она у вас уже стоит,то пропускайте этот пункт) <img width="1001" height="37" alt="image" src="https://github.com/user-attachments/assets/966402d7-e950-4e8b-854f-91572650b47a" />
+4. Ставим общедоступную сеть (если она у вас уже стоит,то пропускайте этот пункт) <img width="1016" height="258" alt="image" src="https://github.com/user-attachments/assets/a7942a48-0ffb-46f4-9d20-1384326796d3" />
 
-5. Находим "Назначение DNS-сервера" и жмякаем на кнопку "Изменить" <img width="469" height="563" alt="image" src="https://github.com/user-attachments/assets/ba982bff-9d08-4e2a-afef-bd2896e4ed5c" />
+
+5. Находим "Назначение DNS-сервера" и жмякаем на кнопку "Изменить" <img width="1001" height="37" alt="image" src="https://github.com/user-attachments/assets/b7a31639-39de-447c-9081-a73fb3375935" />
+
 
 
 6. Ставим ручной режим и включаем ipv4.
