@@ -6,7 +6,9 @@ RU
 4. Ставим общедоступную сеть (если она у вас уже стоит,то пропускайте этот пункт) <img width="481" height="626" alt="image" src="https://github.com/user-attachments/assets/273cbed8-50c1-4e08-8ac9-4c1cb494476b" />
 5. Находим "Назначение DNS-сервера" и жмякаем на кнопку "Изменить" <img width="469" height="563" alt="image" src="https://github.com/user-attachments/assets/ba982bff-9d08-4e2a-afef-bd2896e4ed5c" />
 
+
 6. Ставим ручной режим и включаем ipv4.
+
 7. Ставите все тоже самое что на скрине <img width="481" height="626" alt="image" src="https://github.com/user-attachments/assets/e28336f5-eadd-4033-aecf-a2de47976abe" />
   
   (8.8.8.8 и 8.8.4.4 включая автоматическое определение))
